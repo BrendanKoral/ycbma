@@ -1,3 +1,5 @@
 language: php
 
-script: sh .travis/deploy.sh
+script: curl --ftp-create-dirs -T uploadfilename -u $FTP_USER:$FTP_PASSWORD ftp://youcanbemyangel.com/wp-content/testdir
+
+after_success: sh .travis/deploy.sh
