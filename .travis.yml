@@ -1,0 +1,5 @@
+language: php
+
+
+
+after_success: sh .travis/deploy.sh
