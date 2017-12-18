@@ -1,0 +1,15 @@
+$angel_red: #c0392b;
+
+@import "../colors/colors";
+@import "scss/customize";
+@import "customizations";
+
+/*  Import default stylesheets from the project */
+
+/* Make navbar opaque */
+
+.site-header .topbar {
+  background-color: rgba(255,255,255,1);
+}
+
+/*  */

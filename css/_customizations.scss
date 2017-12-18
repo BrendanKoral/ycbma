@@ -1,0 +1,188 @@
+li.item.event-item {
+  height: 75px;
+}
+
+.img-thumbnail strong {
+  width: 120px;
+}
+
+.mission-statement-footer {
+  font-size:14px !important;
+}
+
+.mission-statement-right {
+  float: right;
+}
+
+.page-id-42 .nav-backed-header.parallax, .page-id-45 .nav-backed-header.parallax{
+  padding-top: 140px !important;
+}
+
+.post-type-archive-news .nav-backed-header.parallax {
+  padding-top: 320px !important;
+}
+
+.post-type-archive-children .nav-backed-header.parallax {
+  padding-top:220px;
+}
+
+.page-id-59 .nav-backed-header.parallax{
+  padding-top: 220px;
+}
+
+.page-id-17 .nav-backed-header.parallax{
+  padding-top: 300px !important;
+}
+
+iframe.ytvideo-aboutus {
+  width: 500px;
+  height: 300px;
+}
+
+.fluid-width-video-wrapper {
+  padding-top: 35% !important;
+}
+
+.navigation .megamenu-container .megamenu-sub-title {
+  text-align: center !important;
+  border-bottom: none !important;
+  margin-bottom: 10px;
+}
+
+ul.dropdown {
+  height: 50px !important;
+}
+
+.navigation .megamenu-container {
+  padding: 0 !important;
+}
+
+.navigation .megamenu-container .megamenu-sub-title {
+  margin: 12px !important;
+}
+
+
+.grid-item {
+  height: 400px;
+  .grid-item-inner {
+    height: 320px;
+  }
+}
+
+/* NEW AS OF APRIL 5 */
+.logo img {
+  height: 140px;
+
+}
+.logo {
+  padding: 0 !important;
+}
+
+.site-header .topbar {
+  height: 140px;
+}
+
+.nivo-slice {
+  top: 120px !important;
+}
+
+.top-navigation .fa {
+  font-size: 20px !important;
+  margin: 5px 10px;
+}
+
+.homepage-cstm-font {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #5e5e5e;
+  text-transform: uppercase;
+}
+
+#nf-form-3-cont .nf-form-title {
+  display: none;
+}
+
+.sponsor-row {
+  margin-bottom: 15px;
+}
+
+.custom-rs-img {
+  width: 275px !important;
+  max-width: 275px !important;
+  height: auto;
+  margin: 0 10px;
+}
+
+.rsUni, .rsUni .rsOverflow, .rsUni .rsSlide, .rsUni .rsVideoFrameHolder, .rsUni .rsThumbs {
+  background-color: #fff !important;
+}
+
+// 5/25 Edits
+.custom-overlay-btn-styles {
+  //Fix mobile though nice job
+  position: absolute;
+  top: 70%;
+  padding: 5px;
+  width: 200px;
+  left: 80px;
+  background-color: #c0392b !important;
+  height: 50px;
+  line-height: 40px;
+  font-size: 20px;
+}
+
+
+.thank-you-text p {
+  font-size: 20px !important;
+}
+
+.reign-in {
+  max-height: 400px !important;
+  width: 100%;
+}
+
+@media (max-width: 767px) {
+  .custom-overlay-btn-styles {
+    left: 30px;
+    position: absolute;
+    top: 70%;
+    width: 140px;
+    background-color: $angel_red !important;
+    padding: 5px;
+    font-size: 12px;
+    line-height:23px;
+    height:30px;
+  }
+
+  .site-header .topbar {
+    height: 70px;
+  }
+
+  .logo img {
+    height: 70px;
+  }
+
+  .mobile-donate-btn {
+    width: 80px;
+    height: 30px;
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .site-header {
+    .logo {
+      img {
+        height: 80px;
+      }
+    }
+    .topbar {
+      height: 80px;
+    }
+  }
+
+  .mobile-donate-btn {
+    width: 130px;
+    height: 40px;
+    font-size: 20px;
+  }
+}

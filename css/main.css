@@ -1,0 +1,303 @@
+.text-primary, .btn-primary .badge, .btn-link, a.list-group-item.active > .badge, .nav-pills > .active > a > .badge, p.drop-caps:first-child:first-letter, .accent-color, .events-listing .event-detail h4 a, .featured-sermon h4 a, .page-header h1, .post-more, ul.nav-list-primary > li a:hover, .widget_recent_comments a, .navigation .megamenu-container .megamenu-sub-title, .cause-item .progress-label, .payment-to-cause a, .products-list li .product-price, .products-list li .product-details h3 a:hover {
+  color: #c0392b !important; }
+
+a:hover {
+  color: #c0392b; }
+
+.events-listing .event-detail h4 a:hover, .featured-sermon h4 a:hover, .featured-gallery p, .post-more:hover, .widget_recent_comments a:hover {
+  opacity: 0.9; }
+
+p.drop-caps.secondary:first-child:first-letter, .accent-bg, .fa.accent-color, .btn-primary,
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active,
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus,
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus,
+.label-primary,
+.progress-bar,
+a.list-group-item.active,
+a.list-group-item.active:hover,
+a.list-group-item.active:focus,
+.panel-primary > .panel-heading, .carousel-indicators .active, .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span, hr.sm, .flex-control-nav a:hover, .flex-control-nav a.flex-active, .title-note, .timer-col #days, .featured-block strong, .featured-gallery, .nav-backed-header, .next-prev-nav a, .event-description .panel-heading, .media-box .media-box-wrapper, .staff-item .social-icons a, .accordion-heading .accordion-toggle.active, .accordion-heading:hover .accordion-toggle, .accordion-heading:hover .accordion-toggle.inactive, .nav-tabs li a:hover, .nav-tabs li a:active, .nav-tabs li.active a, .fc-event, .timeline > li > .timeline-badge, .header-style3 .toprow, .featured-star, .featured-event-time, .goingon-events-floater-inner, .products-list .product-image .add-to-cart {
+  background-color: #c0392b !important; }
+
+.mejs-controls .mejs-time-rail .mejs-time-loaded {
+  background: #c0392b; }
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary, .next-prev-nav a:hover, .staff-item .social-icons a:hover {
+  background: #c0392b;
+  opacity: 0.9; }
+
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus,
+a.thumbnail:hover,
+a.thumbnail:focus,
+a.thumbnail.active,
+a.list-group-item.active,
+a.list-group-item.active:hover,
+a.list-group-item.active:focus,
+.panel-primary,
+.panel-primary > .panel-heading, .fc-event {
+  border-color: #c0392b; }
+
+.panel-primary > .panel-heading + .panel-collapse .panel-body {
+  border-top-color: #c0392b; }
+
+.panel-primary > .panel-footer + .panel-collapse .panel-body {
+  border-bottom-color: #c0392b; }
+
+blockquote {
+  border-left-color: #c0392b; }
+
+/* Color Scheme Specific Classes */
+.positives {
+  margin-left: 15px;
+  margin-bottom: 10px; }
+
+.payment-methods li {
+  margin-bottom: 5px; }
+
+@media screen and (max-width: 767px) {
+  .donate-btn {
+    text-align: center; } }
+.top-navigation li a {
+  display: inline-block;
+  margin: 0 10px;
+  text-decoration: none;
+  height: 40px !important;
+  text-align: center !important;
+  line-height: 27px !important;
+  font-size: 22px !important; }
+  .top-navigation li a.donate-btn {
+    width: 130px; }
+
+.rsBullets {
+  display: none !important; }
+
+.custom-overlay-btn-styles {
+  position: absolute;
+  top: 5%;
+  width: 300px;
+  left: 80px;
+  background-color: green !important; }
+
+.separator {
+  text-transform: none;
+  font-size: 24px;
+  margin: 1.25em auto;
+  text-align: center;
+  position: relative;
+  background-color: transparent;
+  z-index: 1; }
+  .separator span {
+    background-color: #fff;
+    padding: 0 7.5%; }
+  .separator:after {
+    content: "";
+    border-bottom: 1px solid #c2c2c2;
+    height: 1px;
+    width: 100%;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    z-index: -1; }
+
+.event-page-icon {
+  max-width: 250px;
+  max-height: 250px; }
+
+.event-anchor {
+  text-decoration: none; }
+  .event-anchor .event-page-title {
+    color: #c0392b; }
+
+h1.logo {
+  float: left; }
+
+.mobile-donate-btn {
+  float: right;
+  width: 80px;
+  margin: 20px 0; }
+
+li.item.event-item {
+  height: 75px; }
+
+.img-thumbnail strong {
+  width: 120px; }
+
+.mission-statement-footer {
+  font-size: 14px !important; }
+
+.mission-statement-right {
+  float: right; }
+
+.page-id-42 .nav-backed-header.parallax, .page-id-45 .nav-backed-header.parallax {
+  padding-top: 140px !important; }
+
+.post-type-archive-news .nav-backed-header.parallax {
+  padding-top: 320px !important; }
+
+.post-type-archive-children .nav-backed-header.parallax {
+  padding-top: 220px; }
+
+.page-id-59 .nav-backed-header.parallax {
+  padding-top: 220px; }
+
+.page-id-17 .nav-backed-header.parallax {
+  padding-top: 300px !important; }
+
+iframe.ytvideo-aboutus {
+  width: 500px;
+  height: 300px; }
+
+.fluid-width-video-wrapper {
+  padding-top: 35% !important; }
+
+.navigation .megamenu-container .megamenu-sub-title {
+  text-align: center !important;
+  border-bottom: none !important;
+  margin-bottom: 10px; }
+
+ul.dropdown {
+  height: 50px !important; }
+
+.navigation .megamenu-container {
+  padding: 0 !important; }
+
+.navigation .megamenu-container .megamenu-sub-title {
+  margin: 12px !important; }
+
+.grid-item {
+  height: 400px; }
+  .grid-item .grid-item-inner {
+    height: 320px; }
+
+/* NEW AS OF APRIL 5 */
+.logo img {
+  height: 140px; }
+
+.logo {
+  padding: 0 !important; }
+
+.site-header .topbar {
+  height: 140px; }
+
+.nivo-slice {
+  top: 120px !important; }
+
+.top-navigation .fa {
+  font-size: 20px !important;
+  margin: 5px 10px; }
+
+.homepage-cstm-font {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #5e5e5e;
+  text-transform: uppercase; }
+
+#nf-form-3-cont .nf-form-title {
+  display: none; }
+
+.sponsor-row {
+  margin-bottom: 15px; }
+
+.custom-rs-img {
+  width: 275px !important;
+  max-width: 275px !important;
+  height: auto;
+  margin: 0 10px; }
+
+.rsUni, .rsUni .rsOverflow, .rsUni .rsSlide, .rsUni .rsVideoFrameHolder, .rsUni .rsThumbs {
+  background-color: #fff !important; }
+
+.custom-overlay-btn-styles {
+  position: absolute;
+  top: 70%;
+  padding: 5px;
+  width: 200px;
+  left: 80px;
+  background-color: #c0392b !important;
+  height: 50px;
+  line-height: 40px;
+  font-size: 20px; }
+
+.thank-you-text p {
+  font-size: 20px !important; }
+
+.reign-in {
+  max-height: 400px !important;
+  width: 100%; }
+
+@media (max-width: 767px) {
+  .custom-overlay-btn-styles {
+    left: 30px;
+    position: absolute;
+    top: 70%;
+    width: 140px;
+    background-color: #c0392b !important;
+    padding: 5px;
+    font-size: 12px;
+    line-height: 23px;
+    height: 30px; }
+
+  .site-header .topbar {
+    height: 70px; }
+
+  .logo img {
+    height: 70px; }
+
+  .mobile-donate-btn {
+    width: 80px;
+    height: 30px;
+    font-size: 14px; } }
+@media (min-width: 768px) and (max-width: 991px) {
+  .site-header .logo img {
+    height: 80px; }
+  .site-header .topbar {
+    height: 80px; }
+
+  .mobile-donate-btn {
+    width: 130px;
+    height: 40px;
+    font-size: 20px; } }
+/*  Import default stylesheets from the project */
+/* Make navbar opaque */
+.site-header .topbar {
+  background-color: white; }
+
+/*  */
+
+/*# sourceMappingURL=main.css.map */

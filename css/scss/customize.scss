@@ -1,0 +1,94 @@
+.positives {
+  margin-left: 15px;
+  margin-bottom: 10px;
+}
+
+.payment-methods li{
+  margin-bottom: 5px;
+}
+
+@media screen and (max-width: 767px){
+  .donate-btn {
+    text-align: center;
+  }
+}
+
+.top-navigation li a {
+  display: inline-block;
+  margin: 0 10px;
+  text-decoration: none;
+  height: 40px !important;
+  text-align: center !important;
+  line-height: 27px !important;
+  font-size: 22px !important;
+  &.donate-btn {
+    width: 130px;
+  }
+}
+
+//RoyalSlider fixes per usual
+.rsBullets {
+  display: none !important;
+}
+
+.custom-overlay-btn-styles {
+  position: absolute;
+  top: 5%;
+  width: 300px;
+  left: 80px;
+  background-color: green !important;
+}
+
+.separator {
+  text-transform: none;
+  font-size: 24px;
+  margin: 1.25em auto;
+  text-align: center;
+  position: relative;
+  background-color: transparent;
+  z-index: 1;
+
+  span {
+    background-color: #fff;
+    padding: 0 7.5%;
+  }
+
+  &:after {
+    content: "";
+    border-bottom: 1px solid #c2c2c2;
+    height: 1px;
+    width: 100%;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    z-index: -1;
+  }
+
+}
+
+.event-page-icon {
+  max-width: 250px;
+  max-height: 250px;
+}
+
+.event-anchor {
+
+  text-decoration: none;
+
+  .event-page-title {
+
+    color: $angel_red;
+
+  }
+}
+
+h1.logo {
+  float: left;
+}
+
+.mobile-donate-btn {
+  float: right;
+  width: 80px;
+  margin: 20px 0;
+}
