@@ -46,7 +46,7 @@
                                 </ul>
                             </li>
                             <li><a href="/calendar/">Events</a></li>
-                            <li><a href="/gallery/">Past Events</a></li>
+                            <li><a href="/gallery/">Gallery</a></li>
                             <li><a href="/news/">News</a></li>
                             <li><a href="/contact/">Contact</a></li>
                         </ul>
