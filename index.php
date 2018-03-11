@@ -139,7 +139,9 @@
             <div class="spacer-30"></div>
               <div class="row">
                 <div class="col-md-12 col-sm-12 text-center">
+                    <img class='koncert-urodzinowy img-responsive' src='<?php bloginfo('template_directory');?>/images/flyer.jpg' alt='prezencik'>
                       <img class='prezencik img-responsive' src='<?php bloginfo('template_directory');?>/images/prezencik.jpg' alt='prezencik'>
+
                       <!--        TODO: Make sponsor logos into slider          -->
 
                       <h1 class="homepage-cstm-font">Supporters</h1>
