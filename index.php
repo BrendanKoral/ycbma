@@ -139,7 +139,7 @@
             <div class="spacer-30"></div>
               <div class="row">
                 <div class="col-md-12 col-sm-12 text-center">
-                    <img class='koncert-urodzinowy img-responsive' src='<?php bloginfo('template_directory');?>/images/flyer.jpg' alt='prezencik'>
+                    <a href="http://youcanbemyangel.com/events/you-can-be-my-angel-foundations-five-year-anniversary/"><img class='koncert-urodzinowy img-responsive' src='<?php bloginfo('template_directory');?>/images/flyer.jpg' alt='prezencik'></a>
                       <img class='prezencik img-responsive' src='<?php bloginfo('template_directory');?>/images/prezencik.jpg' alt='prezencik'>
 
                       <!--        TODO: Make sponsor logos into slider          -->
